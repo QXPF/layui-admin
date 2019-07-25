@@ -1,6 +1,6 @@
 # layuiAdmin
-基于layui的后台模版
-##git过滤规则
+ + 基于layui的后台模版
+## git过滤规则
 + /target/ ：过滤文件设置，表示过滤这个文件夹
 + *.mdb  ，*.ldb  ，*.sln 表示过滤某种类型的文件
 + /mtk/do.c ，/mtk/if.h  表示指定过滤某个文件下具体文件
